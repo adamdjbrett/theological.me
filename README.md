@@ -1,3 +1,9 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/674affa7-8c9a-4701-811a-fcf1aacf73d6/deploy-status)](https://app.netlify.com/sites/theological/deploys)
+
+# Theological.me
+a feed reader for ixTheo's amazing RSS feeds
+
+* * * 
 # Multiplicity - RSS Aggregator Starter Based On Eleventy
 
 **Multiplicity** (abbreviated as 'm10y') is a simple starter pack based on [Eleventy static site generator](https://11ty.dev) that allows you to create RSS aggregator site.
