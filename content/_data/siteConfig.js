@@ -1,8 +1,8 @@
 const packageJson = require("../../package.json");
 
 module.exports = {
-  title: "ixTheo RSS Feed",
-  description: "Theology Blogfeed",
+  title: "Theology RSS Reeder",
+  description: "Theology Blog feed reader",
   author: "Multiple Authors",
   url: "https://theo.rs-rss.com",
   github: {
