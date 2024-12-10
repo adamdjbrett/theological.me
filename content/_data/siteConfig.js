@@ -1,14 +1,14 @@
 const packageJson = require("../../package.json");
 
 module.exports = {
-  title: "Multiplicity",
-  description: "Eleventy-based RSS/JSON feed aggregator template",
+  title: "ixTheo RSS Feed",
+  description: "Theology Blogfeed",
   author: "Multiple Authors",
-  url: "https://eleventy-m10y.lkmt.us/",
+  url: "https://theo.rs-rss.com",
   github: {
     project: "https://github.com/lwojcik/eleventy-template-multiplicity",
   },
-  userAgent: "m10y-https://eleventy-m10y.lkmt.us",
+  userAgent: "m10y-https://theo.rs-rss.com",
   generator: {
     name: "Eleventy",
     version: packageJson.dependencies["@11ty/eleventy"].replace("^", ""),
