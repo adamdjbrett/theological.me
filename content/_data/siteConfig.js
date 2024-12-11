@@ -4,11 +4,11 @@ module.exports = {
   title: "Theology RSS Reeder",
   description: "Theology Blog feed reader",
   author: "Multiple Authors",
-  url: "https://theo.rs-rss.com",
+  url: "https://theological.me",
   github: {
     project: "https://github.com/lwojcik/eleventy-template-multiplicity",
   },
-  userAgent: "m10y-https://theo.rs-rss.com",
+  userAgent: "m10y-theological.me",
   generator: {
     name: "Eleventy",
     version: packageJson.dependencies["@11ty/eleventy"].replace("^", ""),
