@@ -1,7 +1,7 @@
 ---
 name: "Christian Ethics Today"
 url: https://christianethicstoday.com/wp/
-avatar: assets/images/cross.svg
+avatar: /images/cross.svg
 feed: https://christianethicstoday.com/wp/feed/
 # disable: true # skip processing this feed entirely
 # feedType: json # specify this ONLY if you want to use a JSON feed - defaults to RSS / Atom

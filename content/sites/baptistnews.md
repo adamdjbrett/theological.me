@@ -1,7 +1,7 @@
 ---
 name: "Baptist News Global"
 url: https://baptistnews.com/
-avatar: assets/images/bng.png
+avatar: /images/bng.png
 feed: https://baptistnews.com/feed/
 # disable: true # skip processing this feed entirely
 # feedType: json # specify this ONLY if you want to use a JSON feed - defaults to RSS / Atom

@@ -1,7 +1,7 @@
 ---
 name: "Index Theologicus"
 url: https://ixtheo.de/
-avatar: https://ixtheo.de/themes/root/images/vufind-favicon.ico
+avatar: /images/ixtheo.ico
 feed: https://ixtheo.de/docs/news.rss
 # disable: true # skip processing this feed entirely
 # feedType: json # specify this ONLY if you want to use a JSON feed - defaults to RSS / Atom

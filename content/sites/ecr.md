@@ -1,7 +1,7 @@
 ---
 name: "Eileen Campbell Reed"
 url: https://eileencampbellreed.org/
-avatar: assets/images/ecr.webp
+avatar: /images/ecr.webp
 feed: https://eileencampbellreed.org/feed/
 # disable: true # skip processing this feed entirely
 # feedType: json # specify this ONLY if you want to use a JSON feed - defaults to RSS / Atom

@@ -1,7 +1,7 @@
 ---
 name: "Good Fiath Media"
 url: https://goodfaithmedia.org/
-avatar: assets/images/gfm.jpg
+avatar: /images/gfm.jpg
 feed: https://goodfaithmedia.org/feed/
 # disable: true # skip processing this feed entirely
 # feedType: json # specify this ONLY if you want to use a JSON feed - defaults to RSS / Atom

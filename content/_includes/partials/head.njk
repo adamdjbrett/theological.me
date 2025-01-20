@@ -18,11 +18,12 @@
 <link rel="me" href="https://proven.lol/64caa8">
 <meta name="description" content="{{ siteConfig.description }}">
 <meta property="og:type" content="website">
-<meta property="og:image" content="/apple-touch-icon.png">
+<meta property="og:image" content="/church.svg">
 <link rel="stylesheet" href="{{ '/css/style.css' | addHash }}">
 <script src="{{ '/js/scripts.js' | addHash }}"></script>
 <meta name="generator" content="{{ siteConfig.generator.name }} v{{ siteConfig.generator.version }}">
 {%- if canonical -%}
 <link rel="canonical" href="{{ canonical | alwaysProductionUrl }}" />
 {%- endif -%}
-{% favicons 'assets/favicon.svg', appleIconBgColor='#000' %}
+<!--{% favicons 'assets/favicon.svg', appleIconBgColor='#000' %}-->
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>⛪</text></svg>" />
